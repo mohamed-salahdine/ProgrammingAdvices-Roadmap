@@ -1,0 +1,21 @@
+# --- C++ and C# Build Output ---
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.user
+
+# --- Folders to Ignore ---
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# --- Visual Studio Cache ---
+.vs/
+.vscode/
