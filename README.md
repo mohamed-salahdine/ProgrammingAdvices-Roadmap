@@ -1,4 +1,4 @@
-# 🚀 ProgrammingAdvices Roadmap Journey
+# 📍 ProgrammingAdvices Roadmap Journey
 
 This repository documents my entire software engineering journey following the **[ProgrammingAdvices.com](https://programmingadvices.com)** roadmap (Created by Eng. Mohammed Abu-Hadhoud). 
 
@@ -41,28 +41,17 @@ It contains solutions, algorithmic problems, and projects ranging from programmi
 
 ---
 
-## 🏆 Key Projects
+## 🏆 Featured Projects
 
-### 🏦 Console Bank System (Version 1 & 2)
-*Located in Course 07 & 11*
-A full-featured banking application built entirely in C++.
-*   **Features:** Add/Delete Clients, Deposit/Withdraw, Transfer balances, Manage Users & Permissions.
-*   **Concepts Applied:** File Handling, OOP, Encapsulation, Vectors.
-
-### 🧵 MyString Library
-*Located in Course 12 (Data Structures)*
-A custom implementation of the standard String class in C++.
-*   **Features:** Custom iterator, operator overloading, and memory management.
-
-### 📅 Date Library
-*Located in Course 11*
-A comprehensive library to handle date calculations, comparisons, and formatting without using built-in libraries.
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Bank System** | A complete banking simulation with users, clients, and transaction logs. | `C++` `OOP` `File Handling` | ✅ Completed |
+| **MyString** | A custom implementation of the string class to understand memory management. | `C++` `Data Structures` | ✅ Completed |
+| **Date Library** | A utility library for complex date math and formatting. | `C++` `Math Logic` | ✅ Completed |
 
 ---
 
-## 📬 Contact
-If you find this repository helpful or want to discuss code, feel free to reach out!
-*   **GitHub:** [mohamed-salahdine](https://github.com/mohamed-salahdine)
+## 📬 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-mohamed--salahdine-181717?style=for-the-badge&logo=github)](https://github.com/mohamed-salahdine)
 
----
 *Disclaimer: These solutions are my own implementations based on the course requirements.*
