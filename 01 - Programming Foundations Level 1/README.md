@@ -19,11 +19,14 @@ Before diving into syntax or languages, this course focuses on the **mental mode
   - Understanding Sequential execution.
   - Logical Operators (AND, OR, NOT).
   - Introduction to Algorithms and Flowcharts.
+- **Code Execution:**
+  - Source Code vs. Machine Code.
+  - Compilers vs. Interpreters.
 
 ## 💡 Key Learnings
 - Learned to visualize **memory allocation** for variables before writing a single line of code.
 - Mastered converting between **Number Systems** (Binary/Hex) manually.
-- Understood the distinction between **Source Code**, **Machine Code**, and **Compilers/Interpreters**.
+- Understood the distinction between **Hardware**, **Operating Systems**, and **Application Software**.
 
 ## 🛠️ Tools Used
 - **Flowcharts:** To map out logical solutions visually.
@@ -31,4 +34,5 @@ Before diving into syntax or languages, this course focuses on the **mental mode
 - **Mental Models:** Simulating CPU execution for problem-solving.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/01-certificate-of-completion-for-programming-foundations-level-1.pdf)
