@@ -76,8 +76,4 @@ It contains solutions, algorithmic problems, and projects ranging from programmi
 </details>
 
 ---
-
-## 📬 Connect
-[![GitHub](https://img.shields.io/badge/GitHub-mohamed--salahdine-181717?style=for-the-badge&logo=github)](https://github.com/mohamed-salahdine)
-
 *Disclaimer: These solutions are my own implementations based on the course requirements.*
