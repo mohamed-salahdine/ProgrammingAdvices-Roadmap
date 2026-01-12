@@ -27,4 +27,5 @@ Date bugs are infamous in software engineering (e.g., Y2K, Leap Year bugs). Writ
 - **Focus:** Business Logic & Temporal Algorithms.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/08-certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf)

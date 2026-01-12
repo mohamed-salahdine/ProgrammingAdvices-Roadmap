@@ -28,4 +28,5 @@ This directory contains advanced algorithmic solutions where the focus shifts fr
 - **Focus:** Logic, Functions, and Headers.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/05-certificate-of-completion-for-algorithms-problem-solving-level-2.pdf)

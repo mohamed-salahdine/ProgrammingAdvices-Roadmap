@@ -23,4 +23,5 @@ Writing code that works is easy; writing code that **scales** is hard. This leve
 - **Diagrams:** Visualizing memory allocation during recursive calls.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/09-certificate-of-completion-for-09-foundations-level-2.pdf)

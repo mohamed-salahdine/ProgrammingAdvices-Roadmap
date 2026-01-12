@@ -25,4 +25,5 @@ This directory contains the concrete **C++ implementations** of the logical prob
 - **IDE:** Visual Studio
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/04-certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf)

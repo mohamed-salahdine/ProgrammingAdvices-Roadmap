@@ -27,4 +27,5 @@ This folder contains solutions for common algorithmic challenges, including:
 - **Flowgorithm (Optional):** For testing flowchart logic.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/02-certificate-of-completion-for-algorithms-problem-solving-level-1.pdf)

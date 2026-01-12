@@ -28,4 +28,5 @@ This directory focuses on manipulating **2D Arrays (Matrices)** and performing a
 - **Focus:** 2D Arrays, Strings, and Logic.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/07-certificate-of-completion-for-algorithms-problem-solving-level-3.pdf)

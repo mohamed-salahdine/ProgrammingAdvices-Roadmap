@@ -30,4 +30,5 @@ Here lies the foundation of my software engineering journey. The focus is on wri
 - **Compiler:** MSVC
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/03-certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf)

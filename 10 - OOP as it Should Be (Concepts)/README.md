@@ -26,4 +26,5 @@ OOP is the industry standard for large-scale software. It shifts the focus from 
 - **Paradigm:** Object-Oriented Programming
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/10-certificate-of-completion-for-10-oop-as-it-should-be-concepts.pdf)

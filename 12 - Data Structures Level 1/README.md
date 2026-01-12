@@ -25,4 +25,5 @@ I built a generic library (`clsDblLinkedList.h`, `clsStack.h`, `clsQueue.h`, etc
 - **Focus:** Low-level Data Structure Implementation.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/12-certificate-of-completion-for-12-data-structures-level1.pdf)

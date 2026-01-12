@@ -25,4 +25,5 @@ This concludes **Stage 1** of the ProgrammingAdvices roadmap.
 - **Focus:** Application of Data Structures.
 
 ---
-*This repository is part of my journey through the [ProgrammingAdvices.com](https://programmingadvices.com) roadmap.*
+## 🎓 Verification
+[📄 **View Certificate of Completion (PDF)**](../Certificates/13-certificate-of-completion-for-13-algorithms-problem-solving-level-5.pdf)
