@@ -29,4 +29,4 @@ This directory contains advanced algorithmic solutions where the focus shifts fr
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/05-certificate-of-completion-for-algorithms-problem-solving-level-2.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/05-certificate-of-completion-for-algorithms-problem-solving-level-2.pdf)

@@ -35,4 +35,4 @@ Before diving into syntax or languages, this course focuses on the **mental mode
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/01-certificate-of-completion-for-programming-foundations-level-1.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/01-certificate-of-completion-for-programming-foundations-level-1.pdf)

@@ -26,4 +26,4 @@ This concludes **Stage 1** of the ProgrammingAdvices roadmap.
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/13-certificate-of-completion-for-13-algorithms-problem-solving-level-5.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/13-certificate-of-completion-for-13-algorithms-problem-solving-level-5.pdf)

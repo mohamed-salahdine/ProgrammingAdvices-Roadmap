@@ -31,4 +31,4 @@ Here lies the foundation of my software engineering journey. The focus is on wri
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/03-certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/03-certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf)

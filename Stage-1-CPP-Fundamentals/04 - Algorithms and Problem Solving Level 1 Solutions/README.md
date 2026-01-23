@@ -26,4 +26,4 @@ This directory contains the concrete **C++ implementations** of the logical prob
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/04-certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/04-certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf)

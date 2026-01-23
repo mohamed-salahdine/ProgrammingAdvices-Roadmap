@@ -32,4 +32,4 @@ A robust console application allowing users to manage bank clients and transacti
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/11-certificate-of-completion-for-11-oop-as-it-should-be-applications.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/11-certificate-of-completion-for-11-oop-as-it-should-be-applications.pdf)

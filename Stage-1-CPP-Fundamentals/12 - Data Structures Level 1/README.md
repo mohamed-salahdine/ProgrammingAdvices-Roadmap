@@ -26,4 +26,4 @@ I built a generic library (`clsDblLinkedList.h`, `clsStack.h`, `clsQueue.h`, etc
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/12-certificate-of-completion-for-12-data-structures-level1.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/12-certificate-of-completion-for-12-data-structures-level1.pdf)

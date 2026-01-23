@@ -32,4 +32,4 @@ Understanding pointers and references is crucial for backend performance. It tau
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/06-certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/06-certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf)

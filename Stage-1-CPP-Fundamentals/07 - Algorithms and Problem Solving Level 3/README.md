@@ -29,4 +29,4 @@ This directory focuses on manipulating **2D Arrays (Matrices)** and performing a
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/07-certificate-of-completion-for-algorithms-problem-solving-level-3.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/07-certificate-of-completion-for-algorithms-problem-solving-level-3.pdf)

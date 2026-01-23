@@ -24,4 +24,4 @@ Writing code that works is easy; writing code that **scales** is hard. This leve
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/09-certificate-of-completion-for-09-foundations-level-2.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/09-certificate-of-completion-for-09-foundations-level-2.pdf)

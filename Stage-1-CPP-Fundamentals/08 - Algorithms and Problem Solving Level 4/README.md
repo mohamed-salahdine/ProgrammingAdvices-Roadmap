@@ -28,4 +28,4 @@ Date bugs are infamous in software engineering (e.g., Y2K, Leap Year bugs). Writ
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/08-certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/08-certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf)

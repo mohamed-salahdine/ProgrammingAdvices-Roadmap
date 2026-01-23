@@ -28,4 +28,4 @@ This folder contains solutions for common algorithmic challenges, including:
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../Certificates/02-certificate-of-completion-for-algorithms-problem-solving-level-1.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/02-certificate-of-completion-for-algorithms-problem-solving-level-1.pdf)
