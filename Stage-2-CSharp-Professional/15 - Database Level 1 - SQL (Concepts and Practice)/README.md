@@ -24,7 +24,7 @@ Completed: February 2026
 
 ## Certificate
 
-[View Certificate](../../Certificates/15-certificate-of-completion-for-15-database-level-1-sql-concepts-and-practice.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/15%20-certificate-of-completion-for-15-database-level-1-sql-concepts-and-practice.pdf)
 
 ## Next Steps
 
