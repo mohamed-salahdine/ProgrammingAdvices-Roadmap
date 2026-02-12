@@ -25,4 +25,4 @@ After mastering C++ fundamentals and problem-solving, this course introduces the
 
 ---
 ## 🎓 Verification
-[📄 **View Certificate of Completion (PDF)**](../../Certificates/14%20-certificate-of-completion-for-14-c-level-1.pdf)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/14-certificate-of-completion-for-14-c-level-1.pdf)
