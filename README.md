@@ -9,6 +9,8 @@ Modern C++, Algorithms (Levels 1–5), OOP, Data Structures Level 1.
 Professional C#, SQL, ADO.NET, advanced OOP, real-world projects (DVLD system upcoming).
 
 ### Recent Progress
+- **March 2026** – Completed Course 16: OOP As It Should Be In C#  
+  (SOLID principles, clean architecture, proper OOP design patterns in .NET)
 - **Feb 2026** – Completed Course 15: Database Level 1 – SQL  
   (ERD design, normalization 1NF–3NF+, joins, subqueries, views, indexes)
 - **Feb 2026** – Completed Course 14: C# Level 1
@@ -36,6 +38,5 @@ Code follows clean, readable, and principle-driven practices.
 Feedback, suggestions, and stars are welcome!  
 Especially from others on the same roadmap.
 
-#CSharp #SQL #OOP #ProgrammingAdvices #DatabaseDesign #LearningJourney
-
-**Last updated:** February 2026
+#CSharp #SQL #OOP #ProgrammingAdvices #DatabaseDesign #LearningJourney #DotNet #SOLID
+**Last updated:** March 2026
