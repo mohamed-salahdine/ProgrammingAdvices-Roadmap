@@ -25,8 +25,7 @@ It builds directly on C# Level 1 (Course 14) and emphasizes understanding over m
 - Grasping dependency inversion and how it leads to testable, flexible code
 
 ## Certificate
-[Certificate of Completion – Course 16](../../Certificate/16-certificate-of-completion-for-16-oop-as-it-should-be-in-c.pdf)  
-(or link to the main Certificates folder if stored centrally)
+[📄 **View Certificate of Completion (PDF)**](../../Certificates/16-certificate-of-completion-for-16-oop-as-it-should-be-in-c.pdf)
 
 ## Next Steps on the Roadmap
 → Course 17: Database – SQL (Projects & Practice) — heavy real-world SQL challenges and optimization  
