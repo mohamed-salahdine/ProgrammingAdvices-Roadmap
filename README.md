@@ -6,9 +6,12 @@ My personal implementation, solutions, projects, notes, and certificates followi
 Modern C++, Algorithms (Levels 1–5), OOP, Data Structures Level 1.
 
 **Stage 2 – In Progress** (Courses 14–24)  
-Professional C#, SQL, ADO.NET, advanced OOP, real-world projects (DVLD system upcoming).
+Professional C#, SQL mastery, ADO.NET, real-world projects (DVLD upcoming).
 
 ### Recent Progress
+
+- **March 2026** – Completed Course 17: Database - SQL (Projects & Practice)  
+  (50+ real challenges, advanced queries, optimization, stored procedures)
 - **March 2026** – Completed Course 16: OOP As It Should Be In C#  
   (SOLID principles, clean architecture, proper OOP design patterns in .NET)
 - **Feb 2026** – Completed Course 15: Database Level 1 – SQL  
@@ -32,7 +35,7 @@ Code follows clean, readable, and principle-driven practices.
 
 ### Tech Stack
 
-- Stage 1: Modern C++ (C++17/20), GCC/Clang, VS Code / Visual Studio  
+- Stage 1: Modern C++ (C++17/20), Visual Studio  
 - Stage 2: C# (.NET), SQL Server, ADO.NET, WinForms/WPF
 
 Feedback, suggestions, and stars are welcome!  
