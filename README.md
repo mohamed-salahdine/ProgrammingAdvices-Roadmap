@@ -1,46 +1,57 @@
 # ProgrammingAdvices Roadmap – My Journey
 
-My personal implementation, solutions, projects, notes, and certificates following Dr. Mohammed Abu-Hadhoud's structured programming roadmap from [programmingadvices.com](https://programmingadvices.com).
+My personal implementation, solutions, projects, notes, and certificates following **Dr. Mohammed Abu-Hadhoud**’s structured programming roadmap from [programmingadvices.com](https://programmingadvices.com).
 
-**Stage 1 – Completed** ✅ (Courses 01–13)  
-Modern C++, Algorithms (Levels 1–5), OOP, Data Structures Level 1.
+---
 
-**Stage 2 – In Progress** (Courses 14–24)  
-Professional C#, SQL mastery, ADO.NET, real-world projects (DVLD upcoming).
+## 📋 Courses Progress Checklist
 
-### Recent Progress
+### Stage 1 – Foundations (Courses 01–13)
 
-- **March 2026** – Completed Course 17: Database - SQL (Projects & Practice)  
-  (50+ real challenges, advanced queries, optimization, stored procedures)
-- **March 2026** – Completed Course 16: OOP As It Should Be In C#  
-  (SOLID principles, clean architecture, proper OOP design patterns in .NET)
-- **Feb 2026** – Completed Course 15: Database Level 1 – SQL  
-  (ERD design, normalization 1NF–3NF+, joins, subqueries, views, indexes)
-- **Feb 2026** – Completed Course 14: C# Level 1
+- [x] **01 - Programming Foundations - Level 1**
+- [x] **02 - Algorithms & Problem-Solving Level 1**
+- [x] **03 - Introduction to Programming with C++ – Level 1**
+- [x] **04 - Algorithms & Problem-Solving – Level 1 (Solutions)**
+- [x] **05 - Algorithms & Problem-Solving – Level 2**
+- [x] **06 - Introduction to Programming Using C++ Level 2**
+- [x] **07 - Algorithms & Problem Solving Level 3**
+- [x] **08 - Algorithms & Problem Solving Level 4**
+- [x] **09 - Foundations Level 2**
+- [x] **10 - OOP as it Should Be (Concepts)**
+- [x] **11 - OOP as it Should Be (Applications)**
+- [x] **12 - Data Structures - Level 1**
+- [x] **13 - Algorithms & Problem Solving Level 5**
 
-### Progress Overview
+**Stage 1 Status: Completed** ✅
 
-| Stage | Status       | Courses | Focus Areas                              |
-|-------|--------------|---------|------------------------------------------|
-| 1     | Completed ✅   | 01–13   | C++, Algorithms, OOP, Data Structures L1 |
-| 2     | In Progress  | 14–24   | C#, SQL, ADO.NET, Professional Projects  |
+### Stage 2 – Professional C# & Real-World Development (Courses 14–24)
 
-### Repository Structure
+- [x] **14 - C# - Level 1**
+- [x] **15 - Database Level 1 - SQL (Concepts and Practice)**
+- [x] **16 - OOP As It Should Be In C#**
+- [x] **17 - Database - SQL (Projects & Practice)**
+- [ ] **18 - C# & Database Connectivity (ADO.NET)**
+- [ ] **19 - Full Real Project - DVLD**
+- [ ] **20 - C# Programming Level 2**
+- [ ] **21 - Database Level 2 - Concepts & T-SQL**
+- [ ] **22 - Data Structures Level 2 in C#**
+- [ ] **23 - Algorithms Level 6**
+- [ ] **24 - Windows Services**
 
-- `Stage-1-CPP-Fundamentals/` – All C++ work  
-- `Stage-2-CSharp-Professional/` – C# courses, SQL scripts, future projects  
-- `Certificates/` – Official PDFs from programmingadvices.com
+**Stage 2 Status: In Progress**
 
-Code follows clean, readable, and principle-driven practices.
+---
 
 ### Tech Stack
 
-- Stage 1: Modern C++ (C++17/20), Visual Studio  
-- Stage 2: C# (.NET), SQL Server, ADO.NET, WinForms/WPF
+- **Stage 1**: C++
+- **Stage 2**: C# (.NET), SQL Server, ADO.NET, WinForms/WPF
 
-Feedback, suggestions, and stars are welcome!  
-Especially from others on the same roadmap.
+---
 
-#CSharp #SQL #OOP #ProgrammingAdvices #DatabaseDesign #LearningJourney #DotNet #SOLID
+**Feedback, stars, and contributions are very welcome!**  
+Especially from others following the same roadmap.
 
-**Last updated:** March 2026
+#CSharp #SQL #OOP #ProgrammingAdvices #DotNet #SOLID #LearningJourney
+
+**Last updated:** April 2026
