@@ -4,41 +4,45 @@ My personal implementation, solutions, projects, notes, and certificates followi
 
 ---
 
-## 📋 Courses Progress Checklist
+## 📊 Courses Progress
 
 ### Stage 1 – Foundations (Courses 01–13)
 
-- [x] **01 - Programming Foundations - Level 1**
-- [x] **02 - Algorithms & Problem-Solving Level 1**
-- [x] **03 - Introduction to Programming with C++ – Level 1**
-- [x] **04 - Algorithms & Problem-Solving – Level 1 (Solutions)**
-- [x] **05 - Algorithms & Problem-Solving – Level 2**
-- [x] **06 - Introduction to Programming Using C++ Level 2**
-- [x] **07 - Algorithms & Problem Solving Level 3**
-- [x] **08 - Algorithms & Problem Solving Level 4**
-- [x] **09 - Foundations Level 2**
-- [x] **10 - OOP as it Should Be (Concepts)**
-- [x] **11 - OOP as it Should Be (Applications)**
-- [x] **12 - Data Structures - Level 1**
-- [x] **13 - Algorithms & Problem Solving Level 5**
+| Status | Course |
+|--------|--------|
+| ✅ | **01 - Programming Foundations - Level 1** |
+| ✅ | **02 - Algorithms & Problem-Solving Level 1** |
+| ✅ | **03 - Introduction to Programming with C++ – Level 1** |
+| ✅ | **04 - Algorithms & Problem-Solving – Level 1 (Solutions)** |
+| ✅ | **05 - Algorithms & Problem-Solving – Level 2** |
+| ✅ | **06 - Introduction to Programming Using C++ Level 2** |
+| ✅ | **07 - Algorithms & Problem Solving Level 3** |
+| ✅ | **08 - Algorithms & Problem Solving Level 4** |
+| ✅ | **09 - Foundations Level 2** |
+| ✅ | **10 - OOP as it Should Be (Concepts)** |
+| ✅ | **11 - OOP as it Should Be (Applications)** |
+| ✅ | **12 - Data Structures - Level 1** |
+| ✅ | **13 - Algorithms & Problem Solving Level 5** |
 
 **Stage 1 Status: Completed** ✅
 
 ### Stage 2 – Professional C# & Real-World Development (Courses 14–24)
 
-- [x] **14 - C# - Level 1**
-- [x] **15 - Database Level 1 - SQL (Concepts and Practice)**
-- [x] **16 - OOP As It Should Be In C#**
-- [x] **17 - Database - SQL (Projects & Practice)**
-- [ ] **18 - C# & Database Connectivity (ADO.NET)**
-- [ ] **19 - Full Real Project - DVLD**
-- [ ] **20 - C# Programming Level 2**
-- [ ] **21 - Database Level 2 - Concepts & T-SQL**
-- [ ] **22 - Data Structures Level 2 in C#**
-- [ ] **23 - Algorithms Level 6**
-- [ ] **24 - Windows Services**
+| Status | Course |
+|--------|--------|
+| ✅ | **14 - C# - Level 1** |
+| ✅ | **15 - Database Level 1 - SQL (Concepts and Practice)** |
+| ✅ | **16 - OOP As It Should Be In C#** |
+| ✅ | **17 - Database - SQL (Projects & Practice)** |
+| 🟡 | **18 - C# & Database Connectivity (ADO.NET)** |
+| ⬜ | **19 - Full Real Project - DVLD** |
+| ⬜ | **20 - C# Programming Level 2** |
+| ⬜ | **21 - Database Level 2 - Concepts & T-SQL** |
+| ⬜ | **22 - Data Structures Level 2 in C#** |
+| ⬜ | **23 - Algorithms Level 6** |
+| ⬜ | **24 - Windows Services** |
 
-**Stage 2 Status: In Progress**
+**Stage 2 Status: In Progress** 🟡
 
 ---
 
