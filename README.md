@@ -34,7 +34,7 @@ My personal implementation, solutions, projects, notes, and certificates followi
 | ✅ | **15 - Database Level 1 - SQL (Concepts and Practice)** |
 | ✅ | **16 - OOP As It Should Be In C#** |
 | ✅ | **17 - Database - SQL (Projects & Practice)** |
-| 🟡 | **18 - C# & Database Connectivity (ADO.NET)** |
+| ⬜ | **18 - C# & Database Connectivity (ADO.NET)** |
 | ⬜ | **19 - Full Real Project - DVLD** |
 | ⬜ | **20 - C# Programming Level 2** |
 | ⬜ | **21 - Database Level 2 - Concepts & T-SQL** |
@@ -42,7 +42,7 @@ My personal implementation, solutions, projects, notes, and certificates followi
 | ⬜ | **23 - Algorithms Level 6** |
 | ⬜ | **24 - Windows Services** |
 
-**Stage 2 Status: In Progress** 🟡
+**Stage 2 Status: In Progress**
 
 ---
 
