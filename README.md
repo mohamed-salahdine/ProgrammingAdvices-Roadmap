@@ -56,6 +56,6 @@ My personal implementation, solutions, projects, notes, and certificates followi
 **Feedback, stars, and contributions are very welcome!**  
 Especially from others following the same roadmap.
 
-#CSharp #SQL #OOP #ProgrammingAdvices #DotNet #SOLID #LearningJourney
+#CSharp #SQL #OOP #ProgrammingAdvices #DotNet #SOLID #LearningJourney #ProgrammingAdvices
 
 **Last updated:** April 2026
