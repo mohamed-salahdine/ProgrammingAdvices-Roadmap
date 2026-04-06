@@ -49,7 +49,7 @@ My personal implementation, solutions, projects, notes, and certificates followi
 ### Tech Stack
 
 - **Stage 1**: C++
-- **Stage 2**: C# (.NET), SQL Server, ADO.NET, WinForms/WPF
+- **Stage 2**: C# (.NET), SQL Server, ADO.NET, WinForms
 
 ---
 
